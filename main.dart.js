@@ -58545,7 +58545,7 @@ T(a){var s,r=this,q=null,p=A.b1(a).ax,o=p.y2
 p=o==null?p.c:o
 r.a.toString
 o=A.adr("Leo\uc758 \uccab \ubc88\uc9f8 \uc571",q)
-s=r.e?"assets/spiky_test.jpg":"assets/spiky_test2.png"
+s=r.e?"assets/spiky_test2.png":"assets/spiky_test.jpg"
 return new A.tP(new A.pw(o,p,new A.HS(q,q,1/0,56),q),A.MH(A.ajI(A.d([A.a7Y(q,new A.rb(A.amP(q,q,new A.pA(s,q,q)),700,700,q),B.co,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.a3j(r),q,q,q),B.Gk,B.Ki,A.adr(""+r.d,A.b1(a).ok.e)],t.nA),B.oN),q,q),q)}}
 A.a3j.prototype={
 $0(){var s=0,r=A.D(t.H),q=this,p
